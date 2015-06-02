@@ -75,7 +75,8 @@ __NOTE__: Be sure you:
 1. Android as Platform
 1. Click Player Settings, to open them in the Inspector.
 1. Under “Other Settings” set to an appropriate value (`com.carbonfive.asteroidsvr` for example).
-1. Under “Resolution and Presentation” select Landscape Left
+1. Under “Resolution and Presentation”, select Landscape Left as the
+   Default Orientation
 1. Back in the Build Setting window, click  “Build and Run” to name your .apk file
 1. The game should launch on your device. Slot it into your headset and enjoy.
 1. Also, save the scene!
