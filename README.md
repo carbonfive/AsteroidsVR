@@ -156,3 +156,8 @@ In order for the game to end, we need to detect a collision between the Main Cam
 1. Save the scene!
 
 Congratulations! You’re done.
+
+[unity-space-shooter]: https://unity3d.com/learn/tutorials/projects/space-shooter
+[1001-free-fonts]: http://www.1001freefonts.com/megafont.font
+[AsteroidsVRAssets]: http://www.c5vr.com/presentations/downloads/AsteroidsVRAssets.unitypackage
+[CardboardSDKForUnity]: https://github.com/googlesamples/cardboard-unity/blob/master/CardboardSDKForUnity.unitypackage?raw=true
