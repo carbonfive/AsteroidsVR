@@ -145,6 +145,7 @@ In order for the game to end, we need to detect a collision between the Main Cam
 1. In the Hierarchy pane, open the CardboardMain tree until you can select the Main Camera.
 1. In the Inspector, click on Add Component and start typing "Sphere Collider". Select it when the option becomes available.
 1. In the Sphere Collider component properties, set the radius to 1.2
+1. Now in the GameController script, uncomment the body of the Update app. This restarts the level when the Cardboard is triggered while the game is over by reloading the scene.
 1. To stop the Asteroids from moving when the game is over:
   1. In the AsteroidController script, uncomment lines 8 and 22
   1. In the AsteroidMovementController script, uncomment lines 13 and 18
