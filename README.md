@@ -2,7 +2,7 @@
 
 This is an example Virtual Reality project for Google Cardboard, built with Unity. It was part of a workshop for Droidcon Berlin 2015
 
-Credit for the assets go to Unity's Space Shooter project and 1001 Free Fonts
+Credit for the assets go to [Unity's Space Shooter project][unity-space-shooter] and [1001 Free Fonts][1001-free-fonts].
 
 ## Building From Scratch
 
@@ -54,7 +54,9 @@ built in solutions.
 
 1. Import CardboardSDKForUnity by, again, clicking Assets > Import Package > Custom Package.
 1. Select the CardboardSDKForUnity.unitypackage
-1. Import all of its assets.
+1. Import all of its assets. You may get a warning about the package
+   containing referencing outdated APIs, and an offer to have them
+   automatically updated. You can accept this offer safely.
 1. From the Cardboard > Prefabs folder of the assets pane, drag the CardboardMain prefab into the Hierarchy.
 1. Delete the original Main Camera
 1. Switch to Game view, and press play. You should see a stereoscopic view.
