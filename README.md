@@ -1,6 +1,7 @@
 # AsteroidsVR
 
-This is an example Virtual Reality project for Google Cardboard, built with Unity. It was part of a workshop for Droidcon Berlin 2015
+This is an example Virtual Reality project for Google Cardboard, built with Unity. It was part of a workshop for [Droidcon Berlin 2015][droidcon2015].
+Check it and our other experiments at [c5vr.com](http://c5vr.com).
 
 Credit for the assets go to [Unity's Space Shooter project][unity-space-shooter] and [1001 Free Fonts][1001-free-fonts].
 
@@ -159,5 +160,6 @@ Congratulations! You’re done.
 
 [unity-space-shooter]: https://unity3d.com/learn/tutorials/projects/space-shooter
 [1001-free-fonts]: http://www.1001freefonts.com/megafont.font
-[AsteroidsVRAssets]: http://www.c5vr.com/presentations/downloads/AsteroidsVRAssets.unitypackage
+[droidcon2015]: http://www.c5vr.com/presentations/droidcon2015
+[AsteroidsVRAssets]: http://www.c5vr.com/presentations/droidcon2015/downloads/AsteroidsVRAssets.unitypackage
 [CardboardSDKForUnity]: https://github.com/googlesamples/cardboard-unity/blob/master/CardboardSDKForUnity.unitypackage?raw=true
